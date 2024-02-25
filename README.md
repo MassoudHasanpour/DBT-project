@@ -1,0 +1,1 @@
+This repository contains codes to preprocessing DBT images and extract rediomics features to be used as input for ML techniques. It also contains code to test several classifiers on the extracted results to preduce radiology reports. 
