@@ -1,0 +1,110 @@
+patients folder numbers,Glandular Tissue Density: ACR classification,Place Head Deviation,Place in the chest on the medio oblique shot,Place in the chest on the cranio-caudal view,Place in the chest clockwise,Place in the breast relative to the nipple,Deviation benign or malignant,Mass shape,Mass limitation,Mass density,Calcifications benign,Calcifications suspicious,Calcifications distribution,Architecture Disruption,Asymmetry,Dimensions of the deviation or the area in which the deviation in mm,"In addition to the main deviation, there is/are also",Associated findings,Benign abnormalities consistent with,Malignant abnormalities,BIRADS classification
+DBT-P00013,b. Scattered areas of fibroglandular tissue,Right,Below,N/A,N/A,ventral in the mammary,probably benign,N/A,N/A,N/A,round pointed,N/A,diffusely distributed,N/A,asymmetry,,N/A,benign calcifications,N/A,N/A,2
+DBT-P00024,b. Scattered areas of fibroglandular tissue,left,N/A,outer,N/A,dorsal,probably benign,round,with microlobulation,isodense,N/A,,,,,,,,,,3/sono 0
+DBT-P00060,b. Scattered areas of fibroglandular tissue,Right,N/A,N/A,N/A,dorsal in the mammary,probably benign,N/A,N/A,N/A,"vascular,",,,,asymetry,,,a metalic density deep reteroareolar,benign calcifications,,2
+DBT-P00107,c.,left,upper,central,12,dorsal,probably malignant,,,,,,,,focal asymetry,,,,,suspicious,4
+DBT-P00194,b. Scattered areas of fibroglandular tissue,Right,lower,N/A,N/A,d,p b,N/A,N/A,N/A,"vascular round,",n,diffusely distributed,N/A,asymetry,,,benigh calcification,,,2
+DBT-P00225,b. Scattered areas of fibroglandular tissue,left,upper,inner,11,dorsal,pb,oval,lobulated/ over shadoe,isodense,coarse popcorn,n,n,yes,focal asymetry,,,n,fibroadenoma with calcification,N/A,3/fcmv
+DBT-P00303,b. Scattered areas of fibroglandular tissue,Right,upper,medial,11,central,pm,irregular,spicules,dense,,,,,,,,benign calcifications,fibroadenoma,suspicious,4c
+DBT-P00361,b. Scattered areas of fibroglandular tissue,Right,upper,outer,10oclock,dorsal,pb,N/A,N/A,N/A,N/A,n,n,N/A,focal asymetry,,benign calcification,benigh calcification,benign calcifications,N/A,3/fcmv
+DBT-P00538,b. Scattered areas of fibroglandular tissue, bilateral,,outer,N/A,,,,,,N/A,n,n,N/A,asymetry,,,,"cyst, lipoma",N/A,3/sono 0
+DBT-P00583,b. Scattered areas of fibroglandular tissue,left,upper,central,12,central,pb,N/A,N/A,N/A,N/A,n,n,yes,focal asymetry,,"benign calcification, lipoma,intramamoilary lymph nodes","benign cal,intramamillary lymph nodes",ow,n,3/fcmv
+DBT-P00654,b. Scattered areas of fibroglandular tissue,left,N/A,outer,N/A,central,pb,N/A,N/A,N/A,N/A,n,n,N/A,asymetry,,"mass(lipoma, cysts?)",,"cyst, lipoma",n,3/sono
+DBT-P00684,c.,left,upper,central,12,dorsal,pb,N/A,N/A,N/A,N/A,n,n,N/A,focal asymetry,,,n,N/A,n,3/fcmv
+DBT-P00784,a,Right,middle,central,3,retroareolar,pb,oval,overshadowd,isodense,lime milk levels and round,n,grouped,N/A,n,,mass(cyst?),metalic density right axillary,cyst,n,3
+DBT-P00818,a,Right,upper,central,12,retroareolar,pb,oval,sharp,isodense,N/A,n,n,N/A,n,,fibroadenoma,n,fibroadenoma,n,3/ sono 0
+DBT-P00827,c.,Right,lower,medial,4--5,retroareolar,pb,N/A,N/A,N/A,N/A,n,n,N/A,focal asymetry,,cyst,mass,"mass, cyst",n,3/sono
+DBT-P01110,a,left,middle,outer,3,ventral in the mammary,pm,N/A,N/A,N/A,metalic markers,n,n,yes,focal asymetry,,n,metLIC Mrker,n,suspicious,4c bx
+DBT-P01112,b. Scattered areas of fibroglandular tissue,left,middle,inner,3,ventral in the mammary,pm,N/A,N/A,N/A,egg shell skin,n,diffusely distributed,yes,focal asymetry,,bengn cal,b cal,n,suspicious,4b bx
+DBT-P01130,d,left,upper,outer,2,central,pb,N/A,N/A,N/A,N/A,n,n,yes,focal asymetry,,n,n,benign calcifications,suspicious??,4
+DBT-P01139,b. Scattered areas of fibroglandular tissue,Right,middle,inner,3,central,pm,irregular,spicules,hyperdense,N/A,n,n,N/A,n,,,,,suspicious ,4b bx
+DBT-P01181,b. Scattered areas of fibroglandular tissue,left,lower,central,6,deep ventral,pb?,N/A,N/A,N/A,round pointed,n,diffusely distributed,N/A,focal asymetry,,benign cal,,,n,3/fcmv
+DBT-P01241,b. Scattered areas of fibroglandular tissue,left,lower,central,6,deep dorsal,pb,oval,overshadowd,isodense,N/A,n,n,N/A,n,,n,n,n,n,3/sono0
+DBT-P01262,b. Scattered areas of fibroglandular tissue,Right,upper,outer,10,deep dorsal,pm,N/A,N/A,N/A,N/A,n,n,yes,focal asymetry,,,n,n,suspicious,4c
+DBT-P01267,c.,Right,upper,outer,11,central,pm,n,N/A,N/A,N/A,amorph,segmental,N/A,focal asymetry,,,metalic breast marker,,very suspicious,4c
+DBT-P01282,b. Scattered areas of fibroglandular tissue,left,upper,central,12,deep dorsal,malignant,n,N/A,N/A,N/A,n,n,yes,focal asymetry,,nevus and benign cal,metalic breast marker,nevus,very suspicious,5
+DBT-P01347,b. Scattered areas of fibroglandular tissue,,,,,,,,,,,,,,,,,,,,
+DBT-P01439,b. Scattered areas of fibroglandular tissue,left,,,,,,,,,,,,,,,,,,,
+DBT-P01461,b. Scattered areas of fibroglandular tissue,left,upper,central,12,retroareolar,pm,n,N/A,N/A,N/A,amorph,segmental,yes,focal asymetry,,n,n,n,suspicious,4c
+DBT-P01488,b. Scattered areas of fibroglandular tissue,left,middle,central,retroareol,retroareolar,pb,oval,overshadowd,isodense,N/A,n,n,N/A,n,,"benign calcifications,cysts",n,benign calcificationj,n,3/sono 0
+DBT-P01493,b. Scattered areas of fibroglandular tissue,Right,middle,outer,9,central,pm,irregular,blurrly bunded,hyperdense,N/A,n,n,N/A,n,,n,metalic breast markers,n,suspicious,4b/sono
+DBT-P01539,c.,Right,upper,central,12,central,pb,oval,overshadowd,isodense,round pointed,n,n,N/A,n,,multiple masses and benign cal,b cal,CYSTS,N,2/SONO 
+DBT-P01587,C,Right,upper,central,12,deep dorsal,benign,oval,overshadowd,isodense,popcorn calcification,n,n,N/A,n,,"benign calcifications,fibroadenoma",popcorn cal,fibroadenoma with calcification,n,2
+DBT-P01624,b. Scattered areas of fibroglandular tissue,left,lower,central,6,central,malignant,irregular,spicules,hyperdense,N/A,fine pleomorph,grouped,yes,focal asymetry,,"intramamilary lymph nodes, lap , ",lap,lymph nodes,very suspicious,5
+DBT-P01626,b. Scattered areas of fibroglandular tissue,left,middle,central,retroareol,retroareolar,pb,round,blurrly bunded,hyperdense,round pointed,n,diffusely distributed,N/A,n,,calcifications,another adjucent mass,cal,suspicious,4b/sono
+DBT-P01673,d,left,upper,central,12,central,pm,n,N/A,N/A,N/A,amorph,grouped,N/A,n,,n,n,n,suspicious,4c
+DBT-P01712,b. Scattered areas of fibroglandular tissue,Right,upper,outer,10,deep dorsal,malignant,irregular,spicules,hyperdense,n ,amorph,grouped,yes,focal asymetry,,"calcifications, skin thichening",n,n,very suspicious,4c
+DBT-P01718,c,Right,upper,outer,10,deep dorsal,p m,irregular,blurrly bunded,hyperdense,n,n,n,N/A,n,,lap axillary,,,very suspicious,5
+DBT-P01745,c,left,upper,outer,10,central,malignant,irregular,blurrly bunded,hyperdense,n,fine pleomorph,grouped,N/A,n,,lap axillary,benign calcification,n,very suspicious,5
+DBT-P01751,c,Right,"axillary region, accessory breast",N/A,,,,,,,,,,,,,,,,,
+DBT-P01753,b. Scattered areas of fibroglandular tissue,left,middle,outer,3,ventral in the mammary,pb??,oval,overshadowd,hyperdense,n,n,n,N/A,n,,n,n,n,n,3/sono 0
+DBT-P01801,c,Right,lower,inner,4--5,central,pm,n,N/A,N/A,n,fine pleomorph,grouped,yes,focal asymetry,,lap,cal lap,,suspicious,4c
+DBT-P01817,b. Scattered areas of fibroglandular tissue,left,lower,central,6,ventral in the mammary,pb,oval,overshadowd,isodense,vascular+ round,n,diffusely distributed,N/A,n,,benign cal vascular -round,,cust??,n,3/sono 0
+DBT-P01826,c,left,N/A,outer,N/A,n,pm,n,N/A,N/A,n,fine pleomorph,linear branching,yes,focal asymetry vali view mlo nadarad???,,nevus with benign calcification,metalic markers,,suspicious,4b/ bx
+DBT-P01839,a,left,upper,outer,9--12,retroareolar,pb??,n,N/A,N/A,n,n,n,N/A,focal asymetry dilated ducts,,dilated ducts uoq of right breast,axillary lymphadenopathy,n,n??,3/ sono or mri
+DBT-P02065,b. Scattered areas of fibroglandular tissue,left,upper,outer,1--2,dorsal,pb???,round,overshadowd,isodense,n,n,n,N/A,n,,metalic sutures in axillary,another mass near that,,n??,3/sono 0
+DBT-P02100,a,Right,upper,cc ndarad,?,?,pm,round,with microlobulation,hyperdense,n,n,n,N/A,?/,,vascular calcification,,,,4b/ bx
+DBT-P02133,d,Right,middle,inner,3,dorsal,"pb?, post op changes",n,N/A,N/A,n,n,n,yes,focal asymetry,,skin thichening,metalic markers,n,n,3
+DBT-P02171,c,Right,middle,inner,3,retroareolar,pm,n,N/A,N/A,n,amorph,grouped,yes,focal asymetry,,skin thichening,,n,suspicious,4c
+DBT-P02176,c,Right,lower,central,6,retroareolar,malignant,n,N/A,N/A,n,amorph,grouped,yes,focal asymetry,,lap,n,n,very suspicious,5
+DBT-P02227,c,Right,upper,outer,10,dorsal,malignant,n,N/A,N/A,n,amorph,regional,yes,focal asymetry,,lap,metalic markers,n,very suspicious,5
+DBT-P02380,d,left,lower,inner,7,central,malignant,irregular,blurrly bunded,isodense,n,n,n,N/A,?,,n,,n,suspicious,4c
+DBT-P02471,c,left,middle,inner,9,central,benign,oval,lobulated/ over shadoe,hyperdense,coarse popcorn,n,n,N/A,n,,n,,fibroadenoma with calcification,n,2/fibroadenoma
+DBT-P02493,c,left,upper,outer,2,ventral in the mammary,malignant,irregular,blurrly bunded,hyperdense,n,n,n,N/A,n,,lap benign cal + nevuses,markers skin nevuses,,very suspicious,5
+DBT-P02510,c,left,upper,outer,3,central,malignant,irregular,spicules,hyperdense,n,amorph,regional,yes,n,,skin thichening+lap+vascular and punctate benign cal ,,,very suspicious,5
+DBT-P02532,c,left,upper,outer,10--11,dorsal,malignant,n,N/A,N/A,,,,,,,,,,,
+DBT-P02579,c,left,lower,central,6,central,p b,n,N/A,N/A,dystrophic cal+suture cal,n,regional,yes,n,,skin thickening+ calcification suture dystrophic,,post op changes,n,3/follow up
+DBT-P02582,c,left,middle,outer,3,d,pb,n,N/A,N/A,dystrophic cal+suture cal,n,regional,yes,n,,skin thickening+ calcification suture dystrophic,,post op changes,n,3/follow up
+DBT-P02588,d,left,upper,outer,2,retroareolar,bm,n,N/A,N/A,n,fine pleomorph,regional,N/A,focal aymetry,,calcifications+metalic markers,,,,
+DBT-P02736,d,left,middle,outer,3,ventral in the mammary,pm,n,N/A,N/A,n,linear branching,ductal,yes,focal asymetry,,duct ectasia,,,suspicious,4b
+DBT-P02738,c,left,lower,central,6,central,pm,n,N/A,N/A,n,amorph,grouped,yes,focal asymetry,,metalic marker ,,,suspicious,4b
+DBT-P02750,c,Right,lower,cc nadarad,,,,,,,,,,,focal asymetry,,,,,,
+DBT-P02798,a,left,middle,central,retroareol,deep retroareolar,pb,oval,overshadowd,isodense,n,n,n,N/A,n,,n,n,n,n,3/sono or fu
+DBT-P02843,b. Scattered areas of fibroglandular tissue,left,upper,central,12,ventral in the mammary,pb??,n,N/A,N/A,n,n,n,N/A,focal asymetry,,small obscured masses and punctate benign calcification,,fibrocystic changes,n,3/fcmv
+DBT-P02919,c,bilateral,,,,,,,,,,,,,,,,,,,
+DBT-P02935,c,Right,middle,outer,9,central,pm,n,N/A,N/A,n,grossly heterogenous+ linear,segmental+linear branching,N/A,focal asymetry,,some benign diffuse punctate cal,,,suspicious,4c
+DBT-P03009,b. Scattered areas of fibroglandular tissue,Right,middle,outer,3,central,pm,irregular,blurrly bunded,hyperdense,n,n,n,N/A,n,,nevus+ metalic markers+LAP,,,very suspicious,5
+DBT-P03017,d,Right,,,,,,,,,,,,,,,,,,,
+DBT-P03073,b. Scattered areas of fibroglandular tissue,left,middle,central,retroareol,deep retroareolar,malignant,irregular,blurrly bunded,hyperdense,n,n,n,N/A,n,n,lap,,,very suspicous,5
+DBT-P03085,c,left,lower,inner,7,central,pb,oval,overshadowd,isodense,n,n,n,N/A,n,,some obscured masses,,cysts/ fibrocystic,,3/sono 0
+DBT-P03176,b. Scattered areas of fibroglandular tissue,left,??,,,,,,,,,,,,,,,,,,
+DBT-P03203,c,left,??,,,,,,,,,,,,,,,,,,
+DBT-P03212,d,left,upper,outer(nesfash oftade dar cc),2,deep dorsal,pb,oval,overshadowd,isodense,n,n,n,N/A,n,,egg shell calcfication+ round calcification,,?cyst?fibrodenoma sono shavad,,3/sono
+DBT-P03218,c,left,zayehe tatabogh nadarad,,,,,,,,,,,,,,,,,,
+DBT-P03222,d,,,,,,,,,,,,,,,,,,,,
+DBT-P03292,c,left,upper,outer,1,central,pm,n,N/A,N/A,n,n,n,yes,focal asymetry,,calcification+lap,,,suspicious,4b
+DBT-P03423,a,Right,axillary region,N/A,,,pm,,,,,,,,,,lap+ metalic marker,,malignant lymph node,suspicious,malignant lymphnode
+DBT-P03458,,left,faghat yek view mass dard,,,,,,,,,,,,,,,,,,
+DBT-P03539,c,left,upper,central,12,central,pm,irregular,blurrly bunded,hyperdense,n,n,n,yes,n,,calcified lap,metalic marker,,suspicious,4c
+DBT-P03658,b,bilateral,,,,,,,,,,,,,,,,,,,
+DBT-P03677,c,bilateral,,,,,,,,,,,,,,,,,,,
+DBT-P03748,b. Scattered areas of fibroglandular tissue,left,middle,inner,9,dorsal,malignant,irregular,spicules,hyperdense,n,n,n,N/A,,,lap,,,very suspicious,5
+DBT-P03816,c,Right,upper,inner,1--2,deep dorsal,pb,n,N/A,N/A,n,n,n,yes,focal asymetry,,lap+benign diffuse punctate cal,,,n,3/fcmv
+DBT-P03915,c,left,N/A,outer,,central,pb,,,,,,,yes,,,artitectural distostiuon cc view??,,,,3??
+DBT-P03978,c,Right,upper,outer,10,dorsal,pm,n,N/A,N/A,n,n,n,yes,focal asymetry,,diffuse benign punctate microcal,,,suspicious,4b
+DBT-P04026,c,Right,middle,central,retroareol,retroareolar deep,pm,n,N/A,N/A,n,n,n,yes,focal asymetry,,artitectural distortion,metalic marker,,suspicious,4c
+DBT-P04090,c,Right,upper,inner,1,central,pm,irregular,blurrly bunded,hyperdense,n,fine pleomorph,segmental,N/A,n,,,metalic marker,,very suspicious,5
+DBT-P04116,d,Right,upper,outer,10,central,pm,??,,,,,,,,,,,,,
+DBT-P04326,c,left,lower,central,6,deep dorsal,pm,n,N/A,N/A,n,n,n,,,,skin benign calcification,,,suspicious,4c
+DBT-P04372,b. Scattered areas of fibroglandular tissue,left,middle,central,retroareol,retroareolar,pm,irregular,blurrly bunded,hyperdense,n,n,n,N/A,n,,n,,,suspicious,4c
+DBT-P04429,c,left,upper,central,12,dorsal,pm,irregular,microlubulated,hyperdense,n,n,n,N/A,n,,metalic marker,,,suspicious,4c
+DBT-P04431,?,,,,,,,,,,,,,,,,,,,,
+DBT-P04710,c,Right,lower,inner,4,central,pm,irregular,spicules,hyperdense,n,n,n,yes,n,,metalic marker+neeple retraction,,,very suspicious,4c
+DBT-P04721,b,left,upper,central,12,deep ventral,pb,n,N/A,N/A,n,n,n,n,focal asymetry,,,,,,b
+DBT-P04750,b,right,N/A,outer,,,pb??,oval,sharp definede,isodense,n,n,n,n,n,,,,,,3
+DBT-P04818,b,Right,middle,central,retroareol,retroareolar,pb?,n,N/A,N/A,n,n,n,n,focal asymetry,,,,,,3/fu
+DBT-P04858,c,bilateral,,,,,,,,,,,,,,,,,,,
+DBT-P04901,c,Right,upper,central,12,ventral in the mammary,pb?,n,N/A,N/A,n,n,n,n,focal asymetry,,,,,,3/fu
+DBT-P05014,c,Right,lower,outer,10,central,pb?,n,N/A,N/A,n,n,n,n,focal asymetry,,,,,,3/fu
+DBT-P05022,c,Right,upper,inner,2,central,pm,irregular,spicules,hyperdense,,fine pleomorph,grouped,yes,n,,,,,suspicious,4c
+DBT-P05030,b,Right,upper,outer,10,central,pb,oval,overshadowd,isodense,,,,n,,,benign calcification,,,,3/sono or fcmv 0
+DBT-P05047,b,Right,middle,central,retroareol,deep retroareolar,pm,n,N/A,N/A,n,n,n,yes,focal asymetry,,,,,suspicious,4c
+DBT-P05056,d,Right,upper,outer,10,central,pm??,n,N/A,N/A,n,amorph,regional,n,focal asymetry,,,,,suspicious,4b
+DBT-P00538ll,b,Right,middle,central,retroareol,retroareolar,pm,irregular,spicules,isodense,,,,,,,,,,,4b
+DBT-P00538rr,b,left,middle,inner,9,central,pb,oval,overshadowd,isodense,n,n,n,n,n,,,,,,3
+DBT-P02919ll,c,left,upper,outer,2,central,pm,n,N/A,N/A,n,fine pleomorph,,,focal asymetry,,,,,suspicious,4b
+DBT-P02919rr,c,Right,middle,central,retroareol,retroareolar,pb,n,N/A,N/A,n,n,n,n,focal asymetry,,,,duct ectasia,n,3/fu
+DBT-P03658ll,b,Right,lower,outer,7,ventral in the mammary,pm,oval,overshadowd,hyperdense,n,n,n,yes,n,,skin retraction and thichening and lap,,,suspicious,4c
+DBT-P03658rr,b,left,??,,,,,,,,,,,,,,,,,,
+DBT-P03677ll,c,left,upper,inner,10,deep  central,pb?,n,N/A,N/A,n,n,n,n,focal asymetry,,,,,,3
+DBT-P03677rr,c,Right,lower,inner,7,central,pm,irregular,blurrly bunded,hyperdense,n,n,n,n,n,,,,,suspicious,4c
